@@ -7,7 +7,7 @@
     <?php
     echo "Yak Tours and Trips";
     ?>
-    <?php ?>
+    <?php echo "All tours are availeble"; ?>
     
 </body>
 </html>
